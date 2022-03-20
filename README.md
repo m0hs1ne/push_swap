@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/surfi89/push_swap?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/surfi89/push_swap?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/surfi89/push_swap?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/surfi89/push_swap?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/surfi89/push_swap?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/m0hs1ne/push_swap?color=lightblue" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/m0hs1ne/push_swap?color=critical" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/m0hs1ne/push_swap?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/m0hs1ne/push_swap?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/m0hs1ne/push_swap?color=green" />
 </p>
 
 <h3 align="center">
@@ -34,7 +34,6 @@ optimized data sorting._
 	This project consists of coding a program that finds the lowest possible number of moves to
 	sort a random list of integers using 2 stacks and a limited set of operations  
 
-For more detailed information, look at the [**subject of this project**](https://github.com/Surfi89/42cursus/tree/main/Subject%20PDFs).
 
 
 ## 🛠️ Usage
