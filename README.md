@@ -9,8 +9,6 @@
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/m0hs1ne/push_swap?color=lightblue" />
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/m0hs1ne/push_swap?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/m0hs1ne/push_swap?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/m0hs1ne/push_swap?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/m0hs1ne/push_swap?color=green" />
 </p>
 
